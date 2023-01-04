@@ -1,0 +1,10 @@
+*sublime*
+images
+venv
+model*
+validation-tests
+tests-results.txt
+nohup*
+__pycache__
+natural_images
+base-full
